@@ -1,18 +1,18 @@
-#### Description:
+### Description:
 
 Help us test the form by submitting the username as `test` and password as `test!`
 
-#### Objection:
+### Objection:
 
 Find the hidden flag in the machine
 
-#### Concepts
+### Concepts
 
 *   Encoding/ Decoding
 *   Request Analysis
 *   Code Inspection
 
-#### Solution:
+### Solution:
 
 After launching the machine, we were given a URL to visit. The web page appeared to be a standard login form, with normal source code. We used the provided credentials to log in but were redirected to a new page. Upon analyzing the page source, we realized that the input form did not function, so we needed to try a different approach.
 
