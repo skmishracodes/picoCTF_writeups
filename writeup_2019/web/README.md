@@ -13,5 +13,5 @@ Welcome to the picoCTF 2019 Web Challenges repository! This collection contains 
 - [Irish-Name-Repo 2](https://github.com/Itskmishra/picoCTF_writeups/blob/main/writeup_2019/web/irish_name_repo_2.md)
 - [Irish-Name-Repo 3](https://github.com/Itskmishra/picoCTF_writeups/blob/main/writeup_2019/web/irish_name_repo_3.md)
 - [JaWT Scratchpad](https://github.com/Itskmishra/picoCTF_writeups/blob/main/writeup_2019/web/jawt_scratchpad.md)
-- [Java script kiddie]()
-- [Java script kiddie 2]()
+- [Java script kiddie](https://github.com/Itskmishra/picoCTF_writeups/blob/main/writeup_2019/web/java_script-kiddie.md)
+- [Java script kiddie 2](https://github.com/Itskmishra/picoCTF_writeups/blob/main/writeup_2019/web/java_script_kiddie_2.md)
