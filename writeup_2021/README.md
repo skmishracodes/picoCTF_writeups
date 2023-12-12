@@ -1,6 +1,6 @@
 # PicoCTF 2021 Challenges Writeups
 
-Welcome to the PicoCTF 2021 Challenges Writeups repository! This collection contains detailed writeups and solutions for the challenges presented in the PicoCTF 2019 competition. Whether you're a beginner looking to learn or an experienced player seeking insights, these writeups aim to provide a comprehensive understanding of the challenges.
+Welcome to the PicoCTF 2021 Challenges Writeups repository! This collection contains detailed writeups and solutions for the challenges presented in the PicoCTF 2021 competition. Whether you're a beginner looking to learn or an experienced player seeking insights, these writeups aim to provide a comprehensive understanding of the challenges.
 
 ## Challenge Categories
 
