@@ -1,0 +1,6 @@
+## Description
+We have several pages hidden. Can you find the one with the flag? The website is running here.
+### Hint 
+- folders folders folders
+## Solution
+On the website, there is a large image and a navbar that contains a few links. If we check the website's source code, we can see a peculiar path to a CSS file: `secret/assets/index.css`. If we attempt to visit this path, we will find that it is just a regular CSS file. However, if we try to reverse the path one by one, we will find that we're not allowed to access `/secret/assets`. If we visit `/secret/`, we'll be shown a GIF with a message saying "Finally, You almost found me. You are doing well." If we check the page's source code, we'll see another unexpected CSS file path: `hidden/file.css`. Visiting this file will show us nothing, not even in the source code. Let's try reversing the path again. If we try to visit `/secret/hidden/`, we'll be directed to a login page. If we check the page's source code again, we'll see another curious CSS file path: `superhidden/login.css`. Upon checking this file, we'll find that it's just a regular CSS file. Reversing the path to `superhidden`, we'll see a message saying "Finally, You found me. But can you see me?". Checking the page's source code once more, we'll find our flag.
